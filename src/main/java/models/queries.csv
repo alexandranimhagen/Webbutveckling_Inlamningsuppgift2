@@ -1,0 +1,1 @@
+allFromGritAcademy,SELECT * FROM students,gritacademy,localhost,3306,user,user
